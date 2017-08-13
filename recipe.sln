@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexer", "indexer\indexer.csproj", "{AD3E661D-00EC-471A-8F56-690E5EDCC36E}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "play", "play\", "{9A0496B5-C235-41A2-876E-CFBC876C3F37}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_10738"
+		Debug.AspNetCompiler.PhysicalPath = "play\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10738\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_10738"
+		Release.AspNetCompiler.PhysicalPath = "play\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10738\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "10738"
+		SlnRelativePath = "play\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{5DC9C305-2301-45EE-BFFF-512CAF2A257B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3E661D-00EC-471A-8F56-690E5EDCC36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3E661D-00EC-471A-8F56-690E5EDCC36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3E661D-00EC-471A-8F56-690E5EDCC36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3E661D-00EC-471A-8F56-690E5EDCC36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0496B5-C235-41A2-876E-CFBC876C3F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0496B5-C235-41A2-876E-CFBC876C3F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0496B5-C235-41A2-876E-CFBC876C3F37}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0496B5-C235-41A2-876E-CFBC876C3F37}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5DC9C305-2301-45EE-BFFF-512CAF2A257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC9C305-2301-45EE-BFFF-512CAF2A257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC9C305-2301-45EE-BFFF-512CAF2A257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC9C305-2301-45EE-BFFF-512CAF2A257B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

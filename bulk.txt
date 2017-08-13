@@ -1,0 +1,250 @@
+{"index":{"_index":"recipe","_type":"recipe","_id":"cucumber-rounds-with-thai-beef-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Cucumber rounds with Thai beef salad","page":118,"points":1,"meal":null,"rating":null,"tags":["beef","snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fancy-nachos"}}
+{"source":"WeightWatchers Just Say Yum","name":"Fancy nachos","page":82,"points":12,"meal":null,"rating":null,"tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pork-veal-terrine-with-cos-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Pork & veal terrine with cos salad","page":26,"points":6,"meal":null,"rating":null,"tags":["beef","pork","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"potted-eggs-sausage-with-tomato-sauce"}}
+{"source":"WeightWatchers Just Say Yum","name":"Potted eggs & sausage with tomato sauce","page":30,"points":5,"meal":null,"rating":null,"tags":["beef","eggs"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"proscuitto-wrapped-beef"}}
+{"source":"WeightWatchers Just Say Yum","name":"Proscuitto-wrapped beef","page":57,"points":9,"meal":null,"rating":null,"tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"roasted-beef-fillet-with-chimichurri-sauce"}}
+{"source":"WeightWatchers Just Say Yum","name":"Roasted beef fillet with chimichurri sauce","page":94,"points":7,"meal":null,"rating":null,"tags":["beef","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"steak-sandwiches-with-celeriac-remoulade"}}
+{"source":"WeightWatchers Just Say Yum","name":"Steak sandwiches with celeriac remoulade","page":58,"points":10,"meal":null,"rating":null,"tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"cheddar-sweetcorn-bacon-mini-muffins"}}
+{"source":"WeightWatchers Just Say Yum","name":"Cheddar, sweetcorn & bacon mini muffins","page":117,"points":2,"meal":null,"rating":null,"tags":["bakery","cheese","pork","snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chocolate-raspberry-brownies"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chocolate & raspberry brownies","page":45,"points":5,"meal":null,"rating":null,"tags":["bakery","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"date-chocolate-slice"}}
+{"source":"WeightWatchers Just Say Yum","name":"Date & chocolate slice","page":113,"points":4,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"ginger-bundt-cake"}}
+{"source":"WeightWatchers Just Say Yum","name":"Ginger bundt cake","page":109,"points":7,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lemon-syrup-loaf-cake"}}
+{"source":"WeightWatchers Just Say Yum","name":"Lemon syrup loaf cake","page":45,"points":8,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"little-passionfruit-cakes"}}
+{"source":"WeightWatchers Just Say Yum","name":"Little passionfruit cakes","page":42,"points":3,"meal":null,"rating":null,"tags":["bakery","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"mini-jam-sponge-rolls"}}
+{"source":"WeightWatchers Just Say Yum","name":"Mini jam sponge rolls","page":118,"points":6,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"orange-portuguese-tarts"}}
+{"source":"WeightWatchers Just Say Yum","name":"Orange Portuguese tarts","page":110,"points":5,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pink-macarons-with-vanilla-cream"}}
+{"source":"WeightWatchers Just Say Yum","name":"Pink macarons with vanilla cream","page":106,"points":5,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chargrilled-lamb-with-artichokes-beans-feta"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chargrilled lamb with artichokes, beans & feta","page":86,"points":7,"meal":null,"rating":null,"tags":["cheese","lamb"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"goats-cheese-tomato-salad-croutons"}}
+{"source":"WeightWatchers Just Say Yum","name":"Goat's cheese & tomato salad croutons","page":114,"points":6,"meal":null,"rating":null,"tags":["cheese","snack","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"grilled-vegetables-haloumi-on-rye"}}
+{"source":"WeightWatchers Just Say Yum","name":"Grilled vegetables & haloumi on rye","page":14,"points":7,"meal":null,"rating":null,"tags":["cheese","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"haloumi-proscuitto-bites"}}
+{"source":"WeightWatchers Just Say Yum","name":"Haloumi & proscuitto bites","page":71,"points":4,"meal":null,"rating":null,"tags":["cheese","pork","snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lamb-bean-barley-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Lamb, bean & barley salad","page":29,"points":10,"meal":null,"rating":null,"tags":["cheese","lamb","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pan-bagna-with-grilled-vegetables-tuna-basil"}}
+{"source":"WeightWatchers Just Say Yum","name":"Pan bagna with grilled vegetables, tuna & basil","page":39,"points":8,"meal":null,"rating":null,"tags":["cheese","seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"parmesan-toasts-with-roasted-cherry-tomatoes"}}
+{"source":"WeightWatchers Just Say Yum","name":"Parmesan toasts with roasted cherry tomatoes","page":70,"points":1,"meal":null,"rating":null,"tags":["cheese","snack","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pissaladiere-with-roasted-roma-tomatoes"}}
+{"source":"WeightWatchers Just Say Yum","name":"Pissaladiere with roasted roma tomatoes","page":33,"points":10,"meal":null,"rating":null,"tags":["cheese","seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"polenta-pumpkin-wedges-with-walnut-feta-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Polenta & pumpkin wedges with walnut & feta salad","page":89,"points":10,"meal":null,"rating":null,"tags":["cheese","salad","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"ricotta-spinach-gnocchi-with-rich-tomato-sauce"}}
+{"source":"WeightWatchers Just Say Yum","name":"Ricotta & spinach gnocchi with rich tomato sauce","page":81,"points":8,"meal":null,"rating":null,"tags":["cheese","pasta","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spaghettini-with-marinated-tomatoes-goats-cheese"}}
+{"source":"WeightWatchers Just Say Yum","name":"Spaghettini with marinated tomatoes & goat's cheese","page":93,"points":10,"meal":null,"rating":null,"tags":["cheese","pasta","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"sweet-corn-coriander-fritters-with-smoked-salmon"}}
+{"source":"WeightWatchers Just Say Yum","name":"Sweet corn & coriander fritters with smoked salmon","page":13,"points":7,"meal":null,"rating":null,"tags":["cheese","seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chicken-celery-pecan-finger-sandwiches"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chicken, celery & pecan finger sandwiches","page":110,"points":3,"meal":null,"rating":null,"tags":["chicken"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chargrilled-chicken-asparagus-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chargrilled chicken & asparagus salad","page":62,"points":5,"meal":null,"rating":null,"tags":["chicken","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chilli-lemon-barbecued-chicken"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chilli & lemon barbecued chicken","page":61,"points":12,"meal":null,"rating":null,"tags":["chicken"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"honey-paprika-chicken-with-rice-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Honey & paprika chicken with rice salad","page":36,"points":12,"meal":null,"rating":null,"tags":["chicken","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"miso-noodle-hot-pot"}}
+{"source":"WeightWatchers Just Say Yum","name":"Miso noodle hot-pot","page":81,"points":3,"meal":null,"rating":null,"tags":["chicken","asian"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"smoked-chicken-tartlets"}}
+{"source":"WeightWatchers Just Say Yum","name":"Smoked chicken tartlets","page":71,"points":2,"meal":null,"rating":null,"tags":["chicken","snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"summer-roast-chicken-breast-vegatables"}}
+{"source":"WeightWatchers Just Say Yum","name":"Summer roast chicken breast & vegatables","page":85,"points":7,"meal":null,"rating":null,"tags":["chicken"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"apple-tarte-tatin"}}
+{"source":"WeightWatchers Just Say Yum","name":"Apple tarte tatin","page":98,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"banoffee-pie"}}
+{"source":"WeightWatchers Just Say Yum","name":"Banoffee pie","page":101,"points":6,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"blueberry-meringue-tart"}}
+{"source":"WeightWatchers Just Say Yum","name":"Blueberry meringue tart","page":69,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"caramelised-pineapple-with-toffee-sesame-ice-cream"}}
+{"source":"WeightWatchers Just Say Yum","name":"Caramelised pineapple with toffee sesame ice-cream","page":66,"points":8,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fruit-balls-with-passionfruit-syrup"}}
+{"source":"WeightWatchers Just Say Yum","name":"Fruit balls with passionfruit syrup","page":40,"points":5,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"mixed-berry-cheesecake"}}
+{"source":"WeightWatchers Just Say Yum","name":"Mixed berry cheesecake","page":69,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pear-chocolate-pastry-cups"}}
+{"source":"WeightWatchers Just Say Yum","name":"Pear & chocolate pastry cups","page":102,"points":5,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"rose-scented-panna-cotta-with-raspberries-lychees"}}
+{"source":"WeightWatchers Just Say Yum","name":"Rose-scented panna cotta with raspberries & lychees","page":102,"points":5,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"tropical-fruit-salad-limoncello-granita"}}
+{"source":"WeightWatchers Just Say Yum","name":"Tropical fruit salad & limoncello granita","page":97,"points":3,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"maple-roasted-bacon-poached-egg-muffins"}}
+{"source":"WeightWatchers Just Say Yum","name":"Maple-roasted bacon & poached egg muffins","page":18,"points":5,"meal":null,"rating":null,"tags":["eggs","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"scrambled-egg-tomato-chorizo-tortillas"}}
+{"source":"WeightWatchers Just Say Yum","name":"Scrambled egg, tomato & chorizo tortillas","page":18,"points":9,"meal":null,"rating":null,"tags":["eggs","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"semi-dried-tomato-proscuitto-mini-quiches"}}
+{"source":"WeightWatchers Just Say Yum","name":"Semi-dried tomato & proscuitto mini quiches","page":114,"points":3,"meal":null,"rating":null,"tags":["eggs","pork","snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chermoula-fish-skewers-with-vegetable-couscous"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chermoula fish skewers with vegetable couscous","page":54,"points":6,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lemongrass-prawns-with-lime-chilli-salt"}}
+{"source":"WeightWatchers Just Say Yum","name":"Lemongrass prawns with lime & chilli salt","page":65,"points":5,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lime-roasted-whole-snapper"}}
+{"source":"WeightWatchers Just Say Yum","name":"Lime-roasted whole snapper","page":77,"points":7,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"malaysian-chilli-prawns"}}
+{"source":"WeightWatchers Just Say Yum","name":"Malaysian chilli prawns","page":78,"points":5,"meal":null,"rating":null,"tags":["seafood","asian"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"nut-crushed-fish-chips-with-aioli"}}
+{"source":"WeightWatchers Just Say Yum","name":"Nut-crushed fish & chips with aioli","page":90,"points":12,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"salmon-fresh-herb-finger-sandwiches"}}
+{"source":"WeightWatchers Just Say Yum","name":"Salmon & fresh herb finger sandwiches","page":110,"points":2,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"tuna-steaks-with-soba-noodle-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Tuna steaks with soba noodle salad","page":54,"points":8,"meal":null,"rating":null,"tags":["seafood","asian","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"mint-apple-bircher-muesli"}}
+{"source":"WeightWatchers Just Say Yum","name":"Mint & apple bircher muesli","page":17,"points":10,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"persian-rice-with-raspberry-watermelon-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Persian rice with raspberry & watermelon salad","page":21,"points":6,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"butterflied-lamb-with-cumin-turmeric-marinade"}}
+{"source":"WeightWatchers Just Say Yum","name":"Butterflied lamb with cumin & turmeric marinade","page":62,"points":7,"meal":null,"rating":null,"tags":["lamb"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lamb-with-harissa-yoghurt-herb-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Lamb with harissa yoghurt & herb salad","page":50,"points":8,"meal":null,"rating":null,"tags":["lamb","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"rosemary-rack-of-lamb-baby-rosti"}}
+{"source":"WeightWatchers Just Say Yum","name":"Rosemary rack of lamb & baby rosti","page":86,"points":8,"meal":null,"rating":null,"tags":["lamb"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chilli-caramel-pork"}}
+{"source":"WeightWatchers Just Say Yum","name":"Chilli-caramel pork","page":74,"points":8,"meal":null,"rating":null,"tags":["asian","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fennel-rubbed-pork-with-waldorf-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Fennel-rubbed pork with waldorf salad","page":93,"points":5,"meal":null,"rating":null,"tags":["pork","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"honey-thyme-pork-cutlets-polenta-chips"}}
+{"source":"WeightWatchers Just Say Yum","name":"Honey thyme pork cutlets & polenta chips","page":53,"points":9,"meal":null,"rating":null,"tags":["pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"vietnamese-style-shredded-pork-rolls"}}
+{"source":"WeightWatchers Just Say Yum","name":"Vietnamese-style shredded pork rolls","page":33,"points":3,"meal":null,"rating":null,"tags":["pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"sweet-potato-fritters-with-mushroom-salad"}}
+{"source":"WeightWatchers Just Say Yum","name":"Sweet potato fritters with mushroom salad","page":35,"points":9,"meal":null,"rating":null,"tags":["salad","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"beetroot-horseradish-dip"}}
+{"source":"WeightWatchers Just Say Yum","name":"Beetroot & horseradish dip","page":47,"points":1,"meal":null,"rating":null,"tags":["snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"carrot-chickpea-orange-dip"}}
+{"source":"WeightWatchers Just Say Yum","name":"Carrot, chickpea & orange dip","page":46,"points":1,"meal":null,"rating":null,"tags":["snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"garlic-mushroom-dip"}}
+{"source":"WeightWatchers Just Say Yum","name":"Garlic mushroom dip","page":46,"points":1,"meal":null,"rating":null,"tags":["snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"red-pepper-walnut-coriander-dip"}}
+{"source":"WeightWatchers Just Say Yum","name":"Red pepper, walnut & coriander dip","page":47,"points":3,"meal":null,"rating":null,"tags":["snack"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"warm-cumin-scented-olives"}}
+{"source":"WeightWatchers Just Say Yum","name":"Warm cumin-scented olives","page":70,"points":4,"meal":null,"rating":null,"tags":["snack","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"grilled-veal-with-roasted-tomato-eggplant-oregano-salsa"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Grilled veal with roasted tomato, eggplant & oregano salsa","page":60,"points":3,"meal":null,"rating":null,"tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"paprika-steaks-with-chimichurri-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Paprika steaks with chimichurri sauce","page":51,"points":9,"meal":null,"rating":null,"tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"sausage-meatball-tomato-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Sausage meatball & tomato sauce","page":81,"points":4,"meal":null,"rating":"4","tags":["beef"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"thai-beef-salad-wrap"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Thai beef salad wrap","page":37,"points":5,"meal":null,"rating":null,"tags":["beef","sandwich"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"berry-bran-yoghurt-muffins"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Berry, bran & yoghurt muffins","page":81,"points":4,"meal":null,"rating":null,"tags":["bakery","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"muesli-slice"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Muesli slice","page":18,"points":6,"meal":null,"rating":null,"tags":["bakery"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pea-haloumi-bacon-fritters"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Pea, haloumi & bacon fritters","page":34,"points":8,"meal":null,"rating":null,"tags":["cheese","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pumpkin-sage-ricotta-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Pumpkin, sage & ricotta sauce","page":80,"points":3,"meal":null,"rating":null,"tags":["cheese","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"vegie-delight-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Vegie delight salad","page":30,"points":8,"meal":null,"rating":null,"tags":["cheese","salad","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chicken-grape-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Chicken & grape salad","page":26,"points":4,"meal":null,"rating":null,"tags":["chicken","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chicken-stir-fry-with-black-bean-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Chicken stir-fry with black bean sauce","page":71,"points":7,"meal":null,"rating":null,"tags":["chicken","asian"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"chicken-waldorf-wrap"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Chicken waldorf wrap","page":36,"points":9,"meal":null,"rating":null,"tags":["chicken","sandwich"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"poached-chicken-with-yoghurt-herb-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Poached chicken with yoghurt herb sauce","page":67,"points":8,"meal":null,"rating":null,"tags":["chicken"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spicy-chicken-tenderloins-with-pomegranate"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Spicy chicken tenderloins with pomegranate","page":64,"points":12,"meal":null,"rating":null,"tags":["chicken"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"turkey-mushroom-stir-fry"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Turkey & mushroom stir-fry","page":68,"points":8,"meal":null,"rating":null,"tags":["chicken","asian"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"vietnamese-chicken-noodle-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Vietnamese chicken & noodle salad","page":93,"points":7,"meal":null,"rating":null,"tags":["chicken","asian","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"apricot-brulee"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Apricot brulee","page":95,"points":5,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"banana-split-with-choc-hazelnut-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Banana split with choc-hazelnut sauce","page":95,"points":6,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"choc-cherry-meringues"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Choc cherry meringues","page":95,"points":4,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"crisp-apple-spice-crepes"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Crisp apple & spice crepes","page":89,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fig-ricotta-tart-with-honey"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Fig & ricotta tart with honey","page":90,"points":4,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"grilled-nectarine-skewers-with-maple-syrup"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Grilled nectarine skewers with maple syrup","page":86,"points":5,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"strawberry-cookie-trifle"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Strawberry & cookie trifle","page":95,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"strawberry-lamington-cones"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Strawberry lamington cones","page":85,"points":7,"meal":null,"rating":null,"tags":["dessert","fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"bacon-egg-pizzas"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Bacon & egg pizzas","page":33,"points":7,"meal":null,"rating":null,"tags":["eggs","pizza","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"egg-bacon-spinach-burritos"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Egg, bacon & spinach burritos","page":14,"points":8,"meal":null,"rating":null,"tags":["eggs","pork","sandwich"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"vegie-frittata"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Vegie frittata","page":17,"points":6,"meal":null,"rating":null,"tags":["eggs","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"creamy-seafood-tomato-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Creamy seafood & tomato sauce","page":81,"points":4,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"creamy-seafood-pie"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Creamy seafood pie","page":79,"points":9,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fish-vegetable-thai-red-curry"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Fish & vegetable Thai red curry","page":93,"points":5,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"harissa-fish-with-pearl-couscous-minty-yoghurt"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Harissa fish with pearl couscous & minty yoghurt","page":72,"points":6,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"prawn-coleslaw-soft-tacos"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Prawn & coleslaw soft tacos","page":93,"points":10,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"seafood-pizza"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Seafood pizza","page":76,"points":7,"meal":null,"rating":null,"tags":["seafood","pizza"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spiced-pepper-prawns-with-tamarind-dressing"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Spiced pepper prawns with tamarind dressing","page":75,"points":3,"meal":null,"rating":null,"tags":["seafood"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"steamed-fish-with-spicy-tomato-broad-bean-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Steamed fish with spicy tomato & broad bean salad","page":56,"points":4,"meal":null,"rating":null,"tags":["seafood","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"apricot-chai-smoothie"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Apricot chai smoothie","page":20,"points":2,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"breakfast-trifle"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Breakfast trifle","page":13,"points":8,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"cranberry-pear-almond-bircher-muesli"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Cranberry, pear & almond bircher muesli","page":10,"points":7,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"raspberry-apple-yoghurt-smoothie"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Raspberry, apple & yoghurt smoothie","page":21,"points":10,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"super-green-smoothie"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Super green smoothie","page":20,"points":9,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"tropical-breakfast-smoothie"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Tropical breakfast smoothie","page":21,"points":9,"meal":null,"rating":null,"tags":["fruit"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"fennel-seed-lamb-with-brussels-sprouts-fennel-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Fennel seed lamb with brussels sprouts & fennel salad","page":48,"points":8,"meal":null,"rating":null,"tags":["lamb","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"rosemary-lemon-kangaroo-kebabs"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Rosemary & lemon kangaroo kebabs","page":63,"points":3,"meal":null,"rating":null,"tags":["game"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"hoisin-pork-noodle-stir-fry"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Hoisin pork & noodle stir-fry","page":93,"points":12,"meal":null,"rating":null,"tags":["asian","pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"lemongrass-chilli-tofu-skewers"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Lemongrass & chilli tofu skewers","page":44,"points":12,"meal":null,"rating":null,"tags":["asian","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"miso-honey-pork-fillet-with-udon-noodle-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Miso & honey pork fillet with udon noodle salad","page":52,"points":11,"meal":null,"rating":null,"tags":["asian","pork","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spicy-broccoli-agnolotti"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Spicy broccoli agnolotti","page":29,"points":8,"meal":null,"rating":null,"tags":["pasta","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"kale-bacon-mushroom-sauce"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Kale, bacon & mushroom sauce","page":80,"points":2,"meal":null,"rating":null,"tags":["pork"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"pork-cutlets-with-risoni-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Pork cutlets with risoni salad","page":55,"points":7,"meal":null,"rating":null,"tags":["pork","salad"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"shredded-pork-bean-wrap"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Shredded pork & bean wrap","page":37,"points":12,"meal":null,"rating":null,"tags":["pork","sandwich"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spiced-roast-vegeable-salad"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Spiced roast vegeable salad","page":40,"points":11,"meal":null,"rating":null,"tags":["salad","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"avocado-quinoa-vegie-wrap"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Avocado & quinoa vegie wrap","page":36,"points":7,"meal":null,"rating":null,"tags":["sandwich","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"quinoa-tomato-spring-vegetable-soup"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Quinoa, tomato & spring vegetable soup","page":59,"points":4,"meal":null,"rating":null,"tags":["soup","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"red-curry-sweet-potato-lentil-soup"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Red curry, sweet potato & lentil soup","page":25,"points":10,"meal":null,"rating":null,"tags":["soup","vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"black-bean-pumpkin-patties"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Black bean & pumpkin patties","page":43,"points":6,"meal":null,"rating":null,"tags":["vege"]}
+{"index":{"_index":"recipe","_type":"recipe","_id":"spinach-mushroom-baked-potatoes"}}
+{"source":"WeightWatchers Programme Cookbook Weekday Meals","name":"Spinach & mushroom baked potatoes","page":47,"points":6,"meal":null,"rating":null,"tags":["vege"]}
